@@ -1,0 +1,6 @@
+E:\GitClone\lession\01entry\Solution01\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\GitClone\lession\01entry\Solution01\ConsoleApplication1\bin\Debug\Hello World.exe.config
+E:\GitClone\lession\01entry\Solution01\ConsoleApplication1\bin\Debug\Hello World.exe
+E:\GitClone\lession\01entry\Solution01\ConsoleApplication1\bin\Debug\Hello World.pdb
+E:\GitClone\lession\01entry\Solution01\ConsoleApplication1\obj\Debug\Hello World.exe
+E:\GitClone\lession\01entry\Solution01\ConsoleApplication1\obj\Debug\Hello World.pdb

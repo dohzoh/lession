@@ -1,0 +1,6 @@
+E:\GitClone\lession\01entry\Solution01\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe.config
+E:\GitClone\lession\01entry\Solution01\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe
+E:\GitClone\lession\01entry\Solution01\ConsoleApplication11\bin\Debug\ConsoleApplication11.pdb
+E:\GitClone\lession\01entry\Solution01\ConsoleApplication11\obj\Debug\ConsoleApplication11.csprojResolveAssemblyReference.cache
+E:\GitClone\lession\01entry\Solution01\ConsoleApplication11\obj\Debug\ConsoleApplication11.exe
+E:\GitClone\lession\01entry\Solution01\ConsoleApplication11\obj\Debug\ConsoleApplication11.pdb
