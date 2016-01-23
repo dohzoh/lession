@@ -7,15 +7,15 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="32b9ff59-7714-4d97-8c11-fd02fc127fa1"
-    Publisher="CN=matsui-yozo"
+    Name="eb806417-357e-4782-bff7-6eda796b5e72"
+    Publisher="CN=dozo"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="32b9ff59-7714-4d97-8c11-fd02fc127fa1" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="eb806417-357e-4782-bff7-6eda796b5e72" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>EmptyApp01</DisplayName>
-    <PublisherDisplayName>matsui-yozo</PublisherDisplayName>
+    <PublisherDisplayName>dozo</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
